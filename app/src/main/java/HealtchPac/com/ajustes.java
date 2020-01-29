@@ -20,7 +20,7 @@ ImageView ajustes;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ajustes);
 
-        ajustes= (ImageView) findViewById(R.id.ajustes);
+        ajustes= (ImageView) findViewById(R.id.mecha);
 
         ajustes.setOnClickListener(new View.OnClickListener() {
             @Override

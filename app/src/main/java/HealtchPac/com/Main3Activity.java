@@ -50,7 +50,7 @@ public class Main3Activity extends AppCompatActivity {
         this.context = this;
 
 
-        ajustes= (ImageView) findViewById(R.id.ajustes);
+        ajustes= (ImageView) findViewById(R.id.mecha);
 
         ajustes.setOnClickListener(new View.OnClickListener() {
             @Override

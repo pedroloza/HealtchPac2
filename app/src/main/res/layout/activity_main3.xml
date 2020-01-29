@@ -65,7 +65,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
-        android:id="@+id/ajustes"
+        android:id="@+id/imageView9"
         android:layout_width="35dp"
         android:layout_height="47dp"
         android:layout_marginStart="8dp"
