@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59484398382",
+    "firebase_url": "https://healthpac-3732f.firebaseio.com",
+    "project_id": "healthpac-3732f",
+    "storage_bucket": "healthpac-3732f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59484398382:android:5eb6b900220e321f9f50bf",
+        "android_client_info": {
+          "package_name": "HealtchPac.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59484398382-b15m0d5vl76uv8eqqmbnto1m70fbl28j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "HealtchPac.com",
+            "certificate_hash": "4d3c25e8e5634614f2fed48ca57290e3aea8f2e7"
+          }
+        },
+        {
+          "client_id": "59484398382-10btppbs19t70k67t9ervhmeemket1q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhnpxDxP1I5aCBFNKI_8NF6JIUoWvXVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59484398382-10btppbs19t70k67t9ervhmeemket1q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

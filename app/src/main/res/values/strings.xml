@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealtchPac</string>
+    <string name="not_log_in">No se pudo iniciar sesion</string>
+    <string name="not_close_session">No se ha podido cerrar sesion</string>
+    <string name="not_remove">No pudo remover el acceso</string>
+    <string name="camposvacios">Complete Los Campos</string>
+</resources>
